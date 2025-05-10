@@ -2,7 +2,7 @@
 
 A modern, responsive, and elegant **CSS-only login form** with a glass effect and smooth animations. Perfect for creating stylish login pages with minimal effort.
 
-## Live Demo :
+## Live Demo : https://lokesh-soft-dev.github.io/glass-ui-login/
 ---
 ## Features
 
